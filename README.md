@@ -19,4 +19,4 @@ IDEA + JDK1.8
 ###########项目信息
 作者：徐操  
 邮箱：xucao54@139.com  
-github地址：https://github.com/xucao54/trains.git
+github地址：https://github.com/xucao54/train.git
